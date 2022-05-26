@@ -1,0 +1,24 @@
+body{
+background:
+url(https://c4.wallpaperflare.com/wallpaper/633/456/843/flower-flowers-background-pink-widescreen-hd-wallpaper-preview.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.navbar .navbar-brand {
+    color: white;
+    padding-left: 0;
+    padding-right: 50px;
+    font-family: 'Merienda One', sans-serif;
+}
+.nav-item .nav-link{
+    color: white;
+    padding-left: 0;
+    padding-right: 50px;
+    font-family: 'Merienda One', sans-serif;
+}
+.nav-item{
+    color: white;
+    padding-left: 0;
+    padding-right: 50px;
+    font-family: 'Merienda One', sans-serif;
+}
